@@ -1,9 +1,9 @@
 
 function App() {
   return (
-    <h1 className="text-3xl font-bold underline">
-    Hello world!
-  </h1>
+    <div className="h-screen bg-green-500 flex justify-center items-center">
+    <h1 className="text-3xl uppercase text-white font-bold">GChat</h1>
+  </div>
   );
 }
 
